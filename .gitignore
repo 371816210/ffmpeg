@@ -17,5 +17,6 @@ Untitled Project.*
 /libs
 *.o
 /ffmpeg
-
+/doc
+/config.*
 

@@ -8,9 +8,9 @@ PLATFORM=/project/ndk/android-ndk-r9c/platforms/android-19/arch-arm
 	--enable-gpl \
 	--enable-nonfree \
 	--disable-stripping \
-	--disable-ffmpeg \
-	--disable-ffplay \
-	--disable-ffserver \
+	--enable-ffmpeg \
+	--enable-ffplay \
+	--enable-ffserver \
 	--disable-ffprobe \
 	--disable-encoders \
 	--disable-muxers \
